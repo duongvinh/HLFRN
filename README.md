@@ -75,4 +75,4 @@ If our work is useful for your research, please consider citing:
 We would like to thanks the authors of  [DRLF](https://github.com/MantangGuo/DRLF/tree/main), [PFE](https://github.com/lyuxianqiang/LFCA-CR-NET), and [MSP](https://github.com/shuozh/MSP) for sharing code.
 
 ### Contact
-If you have any questions, please feel free to reach me out at `duongvinh@skku.edu`.
+If you have any questions, please feel free to reach me out at `duongvinhyd@gmail.com`.
